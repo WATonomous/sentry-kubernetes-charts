@@ -20,7 +20,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.9.0.tgz
     version: 3.9.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -41,7 +41,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.3.0.tgz
     version: 3.3.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -62,7 +62,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.2.1.tgz
     version: 3.2.1
   - apiVersion: v1
     appVersion: "19.14"
@@ -83,7 +83,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.2.0.tgz
     version: 3.2.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -104,7 +104,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.3.tgz
     version: 3.1.3
   - apiVersion: v1
     appVersion: "19.14"
@@ -125,7 +125,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.2.tgz
     version: 3.1.2
   - apiVersion: v1
     appVersion: "19.14"
@@ -144,7 +144,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.1.tgz
     version: 3.1.1
   - apiVersion: v1
     appVersion: "19.14"
@@ -163,7 +163,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -182,7 +182,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -201,7 +201,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-2.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -220,7 +220,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -239,7 +239,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
     appVersion: "19.14"
@@ -258,7 +258,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -277,7 +277,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -296,7 +296,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.2.2.tgz
     version: 1.2.2
   - apiVersion: v1
     appVersion: "19.14"
@@ -315,7 +315,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
     appVersion: "19.14"
@@ -334,7 +334,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -353,7 +353,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "19.14"
@@ -372,7 +372,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "19.14"
@@ -391,7 +391,7 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.0.0.tgz
     version: 1.0.0
   sentry:
   - apiVersion: v2
@@ -412,7 +412,7 @@ entries:
       version: 29.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.9.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -438,7 +438,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-23.10.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-23.10.0.tgz
     version: 23.10.0
   - apiVersion: v2
     appVersion: 23.5.0
@@ -458,7 +458,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.3.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -484,7 +484,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-19.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-19.1.1.tgz
     version: 19.1.1
   - apiVersion: v2
     appVersion: 23.5.0
@@ -504,7 +504,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.3.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -530,7 +530,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-19.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-19.1.0.tgz
     version: 19.1.0
   - apiVersion: v2
     appVersion: 23.5.0
@@ -550,7 +550,7 @@ entries:
       version: 22.1.3
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -572,7 +572,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-19.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-19.0.0.tgz
     version: 19.0.0
   - apiVersion: v2
     appVersion: 23.3.1
@@ -592,7 +592,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -618,7 +618,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-18.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-18.0.1.tgz
     version: 18.0.1
   - apiVersion: v2
     appVersion: 23.3.1
@@ -638,7 +638,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -664,7 +664,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-18.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-18.0.0.tgz
     version: 18.0.0
   - apiVersion: v2
     appVersion: 23.3.1
@@ -684,7 +684,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -710,7 +710,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.12.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.12.0.tgz
     version: 17.12.0
   - apiVersion: v2
     appVersion: 22.11.0
@@ -730,7 +730,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -756,7 +756,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.3.tgz
     version: 17.11.3
   - apiVersion: v2
     appVersion: 22.11.0
@@ -776,7 +776,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -802,7 +802,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.2.tgz
     version: 17.11.2
   - apiVersion: v2
     appVersion: 22.11.0
@@ -822,7 +822,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -848,7 +848,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.1.tgz
     version: 17.11.1
   - apiVersion: v2
     appVersion: 22.11.0
@@ -868,7 +868,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -894,7 +894,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.0.tgz
     version: 17.11.0
   - apiVersion: v2
     appVersion: 22.11.0
@@ -914,7 +914,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -940,7 +940,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.10.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.10.1.tgz
     version: 17.10.1
   - apiVersion: v2
     appVersion: 22.11.0
@@ -960,7 +960,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -986,7 +986,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.9.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.9.2.tgz
     version: 17.9.2
   - apiVersion: v2
     appVersion: 22.11.0
@@ -1006,7 +1006,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1032,7 +1032,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.9.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.9.1.tgz
     version: 17.9.1
   - apiVersion: v2
     appVersion: 22.11.0
@@ -1052,7 +1052,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1078,7 +1078,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.9.0.tgz
     version: 17.9.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1098,7 +1098,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.2.0
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1124,7 +1124,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.8.0.tgz
     version: 17.8.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1144,7 +1144,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1170,7 +1170,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.7.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.7.1.tgz
     version: 17.7.1
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1190,7 +1190,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1216,7 +1216,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.7.0.tgz
     version: 17.7.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1236,7 +1236,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1262,7 +1262,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.6.0.tgz
     version: 17.6.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1282,7 +1282,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1308,7 +1308,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.5.0.tgz
     version: 17.5.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1328,7 +1328,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1354,7 +1354,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.4.0.tgz
     version: 17.4.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1374,7 +1374,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1400,7 +1400,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.3.0.tgz
     version: 17.3.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1420,7 +1420,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1446,7 +1446,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.2.0.tgz
     version: 17.2.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1466,7 +1466,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1492,7 +1492,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.1.0.tgz
     version: 17.1.0
   - apiVersion: v2
     appVersion: 22.10.0
@@ -1512,7 +1512,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1538,7 +1538,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.0.0.tgz
     version: 17.0.0
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1558,7 +1558,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1584,7 +1584,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.6.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.6.tgz
     version: 16.0.6
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1604,7 +1604,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1630,7 +1630,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.5.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.5.tgz
     version: 16.0.5
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1650,7 +1650,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1676,7 +1676,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.4.tgz
     version: 16.0.4
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1696,7 +1696,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1722,7 +1722,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.3.tgz
     version: 16.0.3
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1742,7 +1742,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1768,7 +1768,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.2.tgz
     version: 16.0.2
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1788,7 +1788,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1814,7 +1814,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.1.tgz
     version: 16.0.1
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1834,7 +1834,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1860,7 +1860,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.0.tgz
     version: 16.0.0
   - apiVersion: v2
     appVersion: 22.9.0
@@ -1880,7 +1880,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1906,7 +1906,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.3.0.tgz
     version: 15.3.0
   - apiVersion: v2
     appVersion: 22.8.0
@@ -1926,7 +1926,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1952,7 +1952,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.2.2.tgz
     version: 15.2.2
   - apiVersion: v2
     appVersion: 22.8.0
@@ -1972,7 +1972,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -1998,7 +1998,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.2.1.tgz
     version: 15.2.1
   - apiVersion: v2
     appVersion: 22.8.0
@@ -2018,7 +2018,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2044,7 +2044,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.2.0.tgz
     version: 15.2.0
   - apiVersion: v2
     appVersion: 22.7.0
@@ -2064,7 +2064,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2090,7 +2090,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.1.0.tgz
     version: 15.1.0
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2110,7 +2110,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2136,7 +2136,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.10.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.10.tgz
     version: 15.0.10
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2156,7 +2156,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2182,7 +2182,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.9.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.9.tgz
     version: 15.0.9
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2202,7 +2202,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2228,7 +2228,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.8.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.8.tgz
     version: 15.0.8
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2248,7 +2248,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2274,7 +2274,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.7.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.7.tgz
     version: 15.0.7
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2294,7 +2294,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2320,7 +2320,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.3.tgz
     version: 15.0.3
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2340,7 +2340,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2366,7 +2366,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.2.tgz
     version: 15.0.2
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2386,7 +2386,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2412,7 +2412,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.1.tgz
     version: 15.0.1
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2432,7 +2432,7 @@ entries:
       version: 16.3.2
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2458,7 +2458,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.0.tgz
     version: 15.0.0
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2474,7 +2474,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2500,7 +2500,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.2.0.tgz
     version: 14.2.0
   - apiVersion: v2
     appVersion: 22.6.0
@@ -2516,7 +2516,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: zookeeper.enabled
       name: zookeeper
@@ -2542,7 +2542,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.1.2.tgz
     version: 14.1.2
   - apiVersion: v2
     appVersion: 22.5.0
@@ -2558,7 +2558,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: clickhouse.enabled,zookeeper.enabled
       name: zookeeper
@@ -2584,7 +2584,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.1.1.tgz
     version: 14.1.1
   - apiVersion: v2
     appVersion: 22.5.0
@@ -2600,7 +2600,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: clickhouse.enabled,zookeeper.enabled
       name: zookeeper
@@ -2626,7 +2626,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.1.0.tgz
     version: 14.1.0
   - apiVersion: v2
     appVersion: 22.3.0
@@ -2642,7 +2642,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: clickhouse.enabled,zookeeper.enabled
       name: zookeeper
@@ -2668,7 +2668,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.0.2.tgz
     version: 14.0.2
   - apiVersion: v2
     appVersion: 22.3.0
@@ -2684,7 +2684,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.2
     - condition: clickhouse.enabled,zookeeper.enabled
       name: zookeeper
@@ -2708,7 +2708,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.0.1.tgz
     version: 14.0.1
   - apiVersion: v2
     appVersion: 22.3.0
@@ -2724,7 +2724,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.1
     - condition: clickhouse.enabled,zookeeper.enabled
       name: zookeeper
@@ -2748,7 +2748,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.0.0.tgz
     version: 14.0.0
   - apiVersion: v2
     appVersion: 21.8.0
@@ -2764,7 +2764,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -2784,7 +2784,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-13.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-13.1.0.tgz
     version: 13.1.0
   - apiVersion: v2
     appVersion: 21.8.0
@@ -2800,7 +2800,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -2820,7 +2820,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-13.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-13.0.1.tgz
     version: 13.0.1
   - apiVersion: v2
     appVersion: 21.8.0
@@ -2836,7 +2836,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -2856,7 +2856,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-13.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-13.0.0.tgz
     version: 13.0.0
   - apiVersion: v2
     appVersion: 21.8.0
@@ -2872,7 +2872,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.1.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -2892,7 +2892,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-12.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-12.0.0.tgz
     version: 12.0.0
   - apiVersion: v2
     appVersion: 21.8.0
@@ -2908,7 +2908,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -2928,7 +2928,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.9.0.tgz
     version: 11.9.0
   - apiVersion: v2
     appVersion: 21.8.0
@@ -2944,7 +2944,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -2964,7 +2964,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.8.0.tgz
     version: 11.8.0
   - apiVersion: v2
     appVersion: 21.8.0
@@ -2980,7 +2980,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3000,7 +3000,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.7.0.tgz
     version: 11.7.0
   - apiVersion: v2
     appVersion: 21.8.0
@@ -3016,7 +3016,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3036,7 +3036,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.6.0.tgz
     version: 11.6.0
   - apiVersion: v2
     appVersion: 21.7.0
@@ -3052,7 +3052,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3072,7 +3072,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.5.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.5.1.tgz
     version: 11.5.1
   - apiVersion: v2
     appVersion: 21.7.0
@@ -3088,7 +3088,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3108,7 +3108,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.5.0.tgz
     version: 11.5.0
   - apiVersion: v2
     appVersion: 21.6.1
@@ -3124,7 +3124,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3144,7 +3144,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.4.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.4.1.tgz
     version: 11.4.1
   - apiVersion: v2
     appVersion: 21.6.1
@@ -3160,7 +3160,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3180,7 +3180,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.4.0.tgz
     version: 11.4.0
   - apiVersion: v2
     appVersion: 21.5.1
@@ -3196,7 +3196,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3216,7 +3216,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.3.tgz
     version: 11.3.3
   - apiVersion: v2
     appVersion: 21.5.1
@@ -3232,7 +3232,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3252,7 +3252,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.2.tgz
     version: 11.3.2
   - apiVersion: v2
     appVersion: 21.5.1
@@ -3268,7 +3268,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3288,7 +3288,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.1.tgz
     version: 11.3.1
   - apiVersion: v2
     appVersion: 21.5.1
@@ -3304,7 +3304,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3324,7 +3324,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.0.tgz
     version: 11.3.0
   - apiVersion: v2
     appVersion: 21.4.1
@@ -3340,7 +3340,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3360,7 +3360,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.2.2.tgz
     version: 11.2.2
   - apiVersion: v2
     appVersion: 21.4.1
@@ -3376,7 +3376,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3396,7 +3396,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.2.1.tgz
     version: 11.2.1
   - apiVersion: v2
     appVersion: 21.4.0
@@ -3412,7 +3412,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3432,7 +3432,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.2.0.tgz
     version: 11.2.0
   - apiVersion: v2
     appVersion: 21.4.0
@@ -3448,7 +3448,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3468,7 +3468,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.1.0.tgz
     version: 11.1.0
   - apiVersion: v2
     appVersion: 21.3.1
@@ -3484,7 +3484,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3504,7 +3504,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.0.1.tgz
     version: 11.0.1
   - apiVersion: v2
     appVersion: 21.3.0
@@ -3520,7 +3520,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 3.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3540,7 +3540,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.0.0.tgz
     version: 11.0.0
   - apiVersion: v2
     appVersion: 21.3.0
@@ -3556,7 +3556,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 2.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3576,7 +3576,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-10.1.0.tgz
     version: 10.1.0
   - apiVersion: v2
     appVersion: 21.2.0
@@ -3592,7 +3592,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 2.0.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3612,7 +3612,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v2
     appVersion: 21.2.0
@@ -3628,7 +3628,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3648,7 +3648,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.1.2.tgz
     version: 9.1.2
   - apiVersion: v2
     appVersion: 21.2.0
@@ -3664,7 +3664,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3684,7 +3684,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.1.1.tgz
     version: 9.1.1
   - apiVersion: v2
     appVersion: 21.2.0
@@ -3700,7 +3700,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3720,7 +3720,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.1.0.tgz
     version: 9.1.0
   - apiVersion: v2
     appVersion: 21.1.0
@@ -3736,7 +3736,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3756,7 +3756,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.0.2.tgz
     version: 9.0.2
   - apiVersion: v2
     appVersion: 21.1.0
@@ -3772,7 +3772,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3792,7 +3792,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.0.1.tgz
     version: 9.0.1
   - apiVersion: v2
     appVersion: 21.1.0
@@ -3808,7 +3808,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3828,7 +3828,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v2
     appVersion: 20.12.1
@@ -3844,7 +3844,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3864,7 +3864,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.3.tgz
     version: 8.1.3
   - apiVersion: v2
     appVersion: 20.12.1
@@ -3880,7 +3880,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3900,7 +3900,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.2.tgz
     version: 8.1.2
   - apiVersion: v2
     appVersion: 20.12.1
@@ -3916,7 +3916,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3936,7 +3936,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.1.tgz
     version: 8.1.1
   - apiVersion: v2
     appVersion: 20.12.1
@@ -3952,7 +3952,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -3972,7 +3972,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.0.tgz
     version: 8.1.0
   - apiVersion: v2
     appVersion: 20.10.1
@@ -3988,7 +3988,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4008,7 +4008,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.0.1.tgz
     version: 8.0.1
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4024,7 +4024,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4044,7 +4044,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4060,7 +4060,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4080,7 +4080,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.4.1.tgz
     version: 7.4.1
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4096,7 +4096,7 @@ entries:
       version: 12.0.0
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4116,7 +4116,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.4.0.tgz
     version: 7.4.0
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4132,7 +4132,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4152,7 +4152,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.3.1.tgz
     version: 7.3.1
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4168,7 +4168,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4188,7 +4188,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.3.0.tgz
     version: 7.3.0
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4204,7 +4204,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4224,7 +4224,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.2.1.tgz
     version: 7.2.1
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4240,7 +4240,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4260,7 +4260,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.2.0.tgz
     version: 7.2.0
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4276,7 +4276,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4296,7 +4296,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.1.0.tgz
     version: 7.1.0
   - apiVersion: v2
     appVersion: 20.10.1
@@ -4312,7 +4312,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4332,7 +4332,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v2
     appVersion: 20.9.0
@@ -4348,7 +4348,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4368,7 +4368,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.2.1.tgz
     version: 6.2.1
   - apiVersion: v2
     appVersion: 20.9.0
@@ -4384,7 +4384,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4404,7 +4404,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.2.0.tgz
     version: 6.2.0
   - apiVersion: v2
     appVersion: 20.9.0
@@ -4420,7 +4420,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4440,7 +4440,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.1.0.tgz
     version: 6.1.0
   - apiVersion: v2
     appVersion: 20.9.0
@@ -4456,7 +4456,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4476,7 +4476,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v2
     appVersion: 20.9.0
@@ -4492,7 +4492,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4512,7 +4512,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.6.1.tgz
     version: 5.6.1
   - apiVersion: v2
     appVersion: 20.9.0
@@ -4528,7 +4528,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4548,7 +4548,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.6.0.tgz
     version: 5.6.0
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4564,7 +4564,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4584,7 +4584,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.5.0.tgz
     version: 5.5.0
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4600,7 +4600,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4620,7 +4620,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.4.0.tgz
     version: 5.4.0
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4636,7 +4636,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4656,7 +4656,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.3.0.tgz
     version: 5.3.0
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4672,7 +4672,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4692,7 +4692,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.3.tgz
     version: 5.2.3
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4708,7 +4708,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4728,7 +4728,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.2.tgz
     version: 5.2.2
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4744,7 +4744,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4764,7 +4764,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.1.tgz
     version: 5.2.1
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4780,7 +4780,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4800,7 +4800,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.0.tgz
     version: 5.2.0
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4816,7 +4816,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4836,7 +4836,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.3.tgz
     version: 5.1.3
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4852,7 +4852,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4872,7 +4872,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.2.tgz
     version: 5.1.2
   - apiVersion: v2
     appVersion: 20.8.1
@@ -4888,7 +4888,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4908,7 +4908,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.1.tgz
     version: 5.1.1
   - apiVersion: v2
     appVersion: 20.8.0
@@ -4924,7 +4924,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4944,7 +4944,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.0.tgz
     version: 5.1.0
   - apiVersion: v2
     appVersion: 20.7.2
@@ -4960,7 +4960,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -4980,7 +4980,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.0.1.tgz
     version: 5.0.1
   - apiVersion: v2
     appVersion: 20.7.2
@@ -4996,7 +4996,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5016,7 +5016,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v2
     appVersion: 20.7.0
@@ -5032,7 +5032,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5048,7 +5048,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.8.1.tgz
     version: 4.8.1
   - apiVersion: v2
     appVersion: 20.7.0
@@ -5064,7 +5064,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5080,7 +5080,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.8.0.tgz
     version: 4.8.0
   - apiVersion: v2
     appVersion: 20.7.0
@@ -5096,7 +5096,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5112,7 +5112,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.7.2.tgz
     version: 4.7.2
   - apiVersion: v2
     appVersion: 20.7.2
@@ -5128,7 +5128,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5144,7 +5144,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.7.1.tgz
     version: 4.7.1
   - apiVersion: v2
     appVersion: 20.7.2
@@ -5160,7 +5160,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5176,7 +5176,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.7.0.tgz
     version: 4.7.0
   - apiVersion: v2
     appVersion: 20.7.2
@@ -5192,7 +5192,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.5.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5208,7 +5208,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.6.0.tgz
     version: 4.6.0
   - apiVersion: v2
     appVersion: 20.7.2
@@ -5224,7 +5224,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.4.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5240,7 +5240,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.5.1.tgz
     version: 4.5.1
   - apiVersion: v2
     appVersion: 20.7.2
@@ -5256,7 +5256,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.4.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5272,7 +5272,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.5.0.tgz
     version: 4.5.0
   - apiVersion: v2
     appVersion: 20.7.1
@@ -5288,7 +5288,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.4.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5304,7 +5304,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.4.0.tgz
     version: 4.4.0
   - apiVersion: v2
     appVersion: 20.7.1
@@ -5320,7 +5320,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.4.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5336,7 +5336,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.3.0.tgz
     version: 4.3.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5352,7 +5352,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.4.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5368,7 +5368,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.2.0.tgz
     version: 4.2.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5384,7 +5384,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.2.2
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5400,7 +5400,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5416,7 +5416,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.2.2
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5432,7 +5432,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5448,7 +5448,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.2.2
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5464,7 +5464,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5480,7 +5480,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.2.2
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5496,7 +5496,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-3.0.1.tgz
     version: 3.0.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5512,7 +5512,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.2.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5528,7 +5528,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5544,7 +5544,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.2.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5560,7 +5560,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5576,7 +5576,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.1.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5592,7 +5592,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5608,7 +5608,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.1.0
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5624,7 +5624,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5640,7 +5640,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.0.1
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5656,7 +5656,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5672,7 +5672,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.0.1
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5688,7 +5688,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5704,7 +5704,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.0.1
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5720,7 +5720,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5736,7 +5736,7 @@ entries:
       version: 9.0.4
     - condition: clickhouse.enabled
       name: clickhouse
-      repository: https://sentry-kubernetes.github.io/charts
+      repository: https://watonomous.github.io/sentry-kubernetes-charts
       version: 1.0.1
     - alias: rabbitmq
       condition: rabbitmq.enabled
@@ -5752,7 +5752,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5784,7 +5784,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5816,7 +5816,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5848,7 +5848,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.3.tgz
     version: 0.12.3
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5880,7 +5880,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.2.tgz
     version: 0.12.2
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5912,7 +5912,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.1.tgz
     version: 0.12.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5944,7 +5944,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -5976,7 +5976,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.11.1.tgz
     version: 0.11.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6008,7 +6008,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6040,7 +6040,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.10.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6050,7 +6050,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6060,7 +6060,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6070,7 +6070,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6080,7 +6080,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6090,7 +6090,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6100,7 +6100,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6110,7 +6110,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6120,7 +6120,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6130,7 +6130,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6140,7 +6140,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6150,7 +6150,7 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.2.1.tgz
     version: 0.2.1
   sentry-db:
   - apiVersion: v2
@@ -6182,7 +6182,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6213,7 +6213,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6244,7 +6244,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6275,7 +6275,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6306,7 +6306,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6337,7 +6337,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6368,7 +6368,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6399,7 +6399,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6430,7 +6430,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6461,7 +6461,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
@@ -6492,7 +6492,7 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.2.1.tgz
     version: 0.2.1
   sentry-kubernetes:
   - apiVersion: v2
@@ -6511,7 +6511,7 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: latest
@@ -6529,7 +6529,7 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.4.tgz
     version: 0.3.4
   - apiVersion: v2
     appVersion: latest
@@ -6547,7 +6547,7 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: latest
@@ -6565,7 +6565,7 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: latest
@@ -6583,6 +6583,6 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.0.tgz
     version: 0.3.0
 generated: "2024-06-23T18:54:56.842132092Z"
