@@ -3,11 +3,11 @@ entries:
   clickhouse:
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.863191592Z"
+    created: "2024-06-23T19:17:44.039156923Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
-    digest: 9fa13cecd7624821c068d2e6bf851b2ccdf7c7654e6ed3314b0da8404b6bf6cb
+    digest: c60294a5e4fd3b3e122f13932de059ac0e5a36f11c1af3e15acbab8d94a69ce0
     home: https://clickhouse.yandex/
     icon: https://clickhouse.yandex/images/logo.png
     keywords:
@@ -20,11 +20,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.9.0.tgz
     version: 3.9.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.861310699Z"
+    created: "2024-06-23T19:17:44.038022674Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -41,11 +41,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.3.0.tgz
     version: 3.3.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.860384129Z"
+    created: "2024-06-23T19:17:44.036399413Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -62,11 +62,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.2.1.tgz
     version: 3.2.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.859430598Z"
+    created: "2024-06-23T19:17:44.035448967Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -83,11 +83,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.2.0.tgz
     version: 3.2.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.858485974Z"
+    created: "2024-06-23T19:17:44.034547253Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -104,11 +104,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.3.tgz
     version: 3.1.3
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.857571476Z"
+    created: "2024-06-23T19:17:44.033655266Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -125,11 +125,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.2.tgz
     version: 3.1.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.856616984Z"
+    created: "2024-06-23T19:17:44.032710501Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -144,11 +144,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.1.tgz
     version: 3.1.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.854901374Z"
+    created: "2024-06-23T19:17:44.031834455Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -163,11 +163,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.853997627Z"
+    created: "2024-06-23T19:17:44.030934894Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -182,11 +182,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.85309965Z"
+    created: "2024-06-23T19:17:44.029253257Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -201,11 +201,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-2.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.852225509Z"
+    created: "2024-06-23T19:17:44.028379475Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -220,11 +220,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.851320729Z"
+    created: "2024-06-23T19:17:44.027537923Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -239,11 +239,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.850430357Z"
+    created: "2024-06-23T19:17:44.026709966Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -258,11 +258,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.84883449Z"
+    created: "2024-06-23T19:17:44.02587146Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -277,11 +277,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.848031862Z"
+    created: "2024-06-23T19:17:44.025108384Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -296,11 +296,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.2.2.tgz
     version: 1.2.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.847249653Z"
+    created: "2024-06-23T19:17:44.023952228Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -315,11 +315,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.846481701Z"
+    created: "2024-06-23T19:17:44.022865958Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -334,11 +334,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.845697248Z"
+    created: "2024-06-23T19:17:44.022130464Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -353,11 +353,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.844910971Z"
+    created: "2024-06-23T19:17:44.021384882Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -372,11 +372,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2024-06-23T18:54:56.844056687Z"
+    created: "2024-06-23T19:17:44.020588103Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -391,12 +391,12 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/clickhouse-1.0.0.tgz
     version: 1.0.0
   sentry:
   - apiVersion: v2
     appVersion: 24.5.1
-    created: "2024-06-23T18:54:58.752228302Z"
+    created: "2024-06-23T19:17:46.120635869Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -432,17 +432,17 @@ entries:
       repository: oci://registry-1.docker.io/bitnamicharts
       version: 18.1.2
     description: A Helm chart for Kubernetes
-    digest: 016b62d4fc9b1ed447f3b4268fcd99e9863abf4e6966bf0238614df25bf0db2a
+    digest: 0813c1a50b0d0c72b6059ffef4bb3d021b03b9f552082ea1a0792be23e2adc41
     maintainers:
     - name: sentry-kubernetes
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-23.10.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-23.10.0.tgz
     version: 23.10.0
   - apiVersion: v2
     appVersion: 23.5.0
-    created: "2024-06-23T18:54:58.681834327Z"
+    created: "2024-06-23T19:17:46.036752881Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -484,11 +484,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-19.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-19.1.1.tgz
     version: 19.1.1
   - apiVersion: v2
     appVersion: 23.5.0
-    created: "2024-06-23T18:54:58.652978503Z"
+    created: "2024-06-23T19:17:45.997813738Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -530,11 +530,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-19.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-19.1.0.tgz
     version: 19.1.0
   - apiVersion: v2
     appVersion: 23.5.0
-    created: "2024-06-23T18:54:58.625437407Z"
+    created: "2024-06-23T19:17:45.969741314Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -572,11 +572,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-19.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-19.0.0.tgz
     version: 19.0.0
   - apiVersion: v2
     appVersion: 23.3.1
-    created: "2024-06-23T18:54:58.599278231Z"
+    created: "2024-06-23T19:17:45.942256421Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -618,11 +618,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-18.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-18.0.1.tgz
     version: 18.0.1
   - apiVersion: v2
     appVersion: 23.3.1
-    created: "2024-06-23T18:54:58.571899042Z"
+    created: "2024-06-23T19:17:45.912668304Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -664,11 +664,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-18.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-18.0.0.tgz
     version: 18.0.0
   - apiVersion: v2
     appVersion: 23.3.1
-    created: "2024-06-23T18:54:58.244891918Z"
+    created: "2024-06-23T19:17:45.546103527Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -710,11 +710,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.12.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.12.0.tgz
     version: 17.12.0
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.216836837Z"
+    created: "2024-06-23T19:17:45.511549768Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -756,11 +756,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.3.tgz
     version: 17.11.3
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.189158611Z"
+    created: "2024-06-23T19:17:45.470824996Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -802,11 +802,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.2.tgz
     version: 17.11.2
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.162446701Z"
+    created: "2024-06-23T19:17:45.436080508Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -848,11 +848,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.1.tgz
     version: 17.11.1
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.134810836Z"
+    created: "2024-06-23T19:17:45.406683694Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -894,11 +894,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.11.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.11.0.tgz
     version: 17.11.0
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.108323541Z"
+    created: "2024-06-23T19:17:45.375397349Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -940,11 +940,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.10.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.10.1.tgz
     version: 17.10.1
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.544474484Z"
+    created: "2024-06-23T19:17:45.885118477Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -986,11 +986,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.9.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.9.2.tgz
     version: 17.9.2
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.517564933Z"
+    created: "2024-06-23T19:17:45.858443605Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1032,11 +1032,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.9.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.9.1.tgz
     version: 17.9.1
   - apiVersion: v2
     appVersion: 22.11.0
-    created: "2024-06-23T18:54:58.489541031Z"
+    created: "2024-06-23T19:17:45.825986081Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1078,11 +1078,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.9.0.tgz
     version: 17.9.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.462694187Z"
+    created: "2024-06-23T19:17:45.798201565Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1124,11 +1124,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.8.0.tgz
     version: 17.8.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.435341434Z"
+    created: "2024-06-23T19:17:45.771222183Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1170,11 +1170,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.7.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.7.1.tgz
     version: 17.7.1
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.408256982Z"
+    created: "2024-06-23T19:17:45.744290834Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1216,11 +1216,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.7.0.tgz
     version: 17.7.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.381037713Z"
+    created: "2024-06-23T19:17:45.704591819Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1262,11 +1262,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.6.0.tgz
     version: 17.6.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.353042294Z"
+    created: "2024-06-23T19:17:45.669739419Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1308,11 +1308,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.5.0.tgz
     version: 17.5.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.326047981Z"
+    created: "2024-06-23T19:17:45.642282376Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1354,11 +1354,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.4.0.tgz
     version: 17.4.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.298651038Z"
+    created: "2024-06-23T19:17:45.605149877Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1400,11 +1400,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.3.0.tgz
     version: 17.3.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.271134645Z"
+    created: "2024-06-23T19:17:45.578409632Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1446,11 +1446,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.2.0.tgz
     version: 17.2.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.080671428Z"
+    created: "2024-06-23T19:17:45.347182187Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1492,11 +1492,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.1.0.tgz
     version: 17.1.0
   - apiVersion: v2
     appVersion: 22.10.0
-    created: "2024-06-23T18:54:58.052607249Z"
+    created: "2024-06-23T19:17:45.311543375Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1538,11 +1538,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-17.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-17.0.0.tgz
     version: 17.0.0
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:58.026472251Z"
+    created: "2024-06-23T19:17:45.282696877Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1584,11 +1584,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.6.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.6.tgz
     version: 16.0.6
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:57.99915088Z"
+    created: "2024-06-23T19:17:45.256277371Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1630,11 +1630,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.5.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.5.tgz
     version: 16.0.5
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:57.972008502Z"
+    created: "2024-06-23T19:17:45.228218326Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1676,11 +1676,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.4.tgz
     version: 16.0.4
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:57.945116254Z"
+    created: "2024-06-23T19:17:45.19533938Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1722,11 +1722,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.3.tgz
     version: 16.0.3
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:57.917527465Z"
+    created: "2024-06-23T19:17:45.168893128Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1768,11 +1768,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.2.tgz
     version: 16.0.2
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:57.891383913Z"
+    created: "2024-06-23T19:17:45.134648747Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1814,11 +1814,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.1.tgz
     version: 16.0.1
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:57.864056007Z"
+    created: "2024-06-23T19:17:45.100350678Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1860,11 +1860,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-16.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-16.0.0.tgz
     version: 16.0.0
   - apiVersion: v2
     appVersion: 22.9.0
-    created: "2024-06-23T18:54:57.836517685Z"
+    created: "2024-06-23T19:17:45.072384413Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1906,11 +1906,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.3.0.tgz
     version: 15.3.0
   - apiVersion: v2
     appVersion: 22.8.0
-    created: "2024-06-23T18:54:57.809841426Z"
+    created: "2024-06-23T19:17:45.032722975Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1952,11 +1952,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.2.2.tgz
     version: 15.2.2
   - apiVersion: v2
     appVersion: 22.8.0
-    created: "2024-06-23T18:54:57.782426153Z"
+    created: "2024-06-23T19:17:44.986289408Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1998,11 +1998,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.2.1.tgz
     version: 15.2.1
   - apiVersion: v2
     appVersion: 22.8.0
-    created: "2024-06-23T18:54:57.755220646Z"
+    created: "2024-06-23T19:17:44.94782563Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2044,11 +2044,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.2.0.tgz
     version: 15.2.0
   - apiVersion: v2
     appVersion: 22.7.0
-    created: "2024-06-23T18:54:57.729076957Z"
+    created: "2024-06-23T19:17:44.921591541Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2090,11 +2090,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.1.0.tgz
     version: 15.1.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.566965412Z"
+    created: "2024-06-23T19:17:44.732233604Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2136,11 +2136,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.10.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.10.tgz
     version: 15.0.10
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.702175993Z"
+    created: "2024-06-23T19:17:44.888788029Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2182,11 +2182,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.9.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.9.tgz
     version: 15.0.9
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.674992745Z"
+    created: "2024-06-23T19:17:44.855971343Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2228,11 +2228,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.8.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.8.tgz
     version: 15.0.8
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.648196197Z"
+    created: "2024-06-23T19:17:44.822650488Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2274,11 +2274,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.7.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.7.tgz
     version: 15.0.7
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.620550153Z"
+    created: "2024-06-23T19:17:44.786340867Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2320,11 +2320,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.3.tgz
     version: 15.0.3
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.592825946Z"
+    created: "2024-06-23T19:17:44.758953713Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2366,11 +2366,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.2.tgz
     version: 15.0.2
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.539444363Z"
+    created: "2024-06-23T19:17:44.704674383Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2412,11 +2412,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.1.tgz
     version: 15.0.1
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.512913314Z"
+    created: "2024-06-23T19:17:44.678519564Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -2458,11 +2458,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-15.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-15.0.0.tgz
     version: 15.0.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.486077122Z"
+    created: "2024-06-23T19:17:44.650423594Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2500,11 +2500,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.2.0.tgz
     version: 14.2.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2024-06-23T18:54:57.466906229Z"
+    created: "2024-06-23T19:17:44.631031083Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2542,11 +2542,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.1.2.tgz
     version: 14.1.2
   - apiVersion: v2
     appVersion: 22.5.0
-    created: "2024-06-23T18:54:57.447425558Z"
+    created: "2024-06-23T19:17:44.612022706Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2584,11 +2584,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.1.1.tgz
     version: 14.1.1
   - apiVersion: v2
     appVersion: 22.5.0
-    created: "2024-06-23T18:54:57.426886512Z"
+    created: "2024-06-23T19:17:44.592532065Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2626,11 +2626,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.1.0.tgz
     version: 14.1.0
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2024-06-23T18:54:57.406638673Z"
+    created: "2024-06-23T19:17:44.572460729Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2668,11 +2668,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.0.2.tgz
     version: 14.0.2
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2024-06-23T18:54:57.385750612Z"
+    created: "2024-06-23T19:17:44.553184489Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2708,11 +2708,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.0.1.tgz
     version: 14.0.1
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2024-06-23T18:54:57.365144029Z"
+    created: "2024-06-23T19:17:44.534149415Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2748,11 +2748,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-14.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-14.0.0.tgz
     version: 14.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.345449961Z"
+    created: "2024-06-23T19:17:44.514752401Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2784,11 +2784,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-13.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-13.1.0.tgz
     version: 13.1.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.327008368Z"
+    created: "2024-06-23T19:17:44.497758885Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2820,11 +2820,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-13.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-13.0.1.tgz
     version: 13.0.1
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.308987108Z"
+    created: "2024-06-23T19:17:44.480571106Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2856,11 +2856,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-13.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-13.0.0.tgz
     version: 13.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.291696446Z"
+    created: "2024-06-23T19:17:44.46291366Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2892,11 +2892,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-12.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-12.0.0.tgz
     version: 12.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.275207203Z"
+    created: "2024-06-23T19:17:44.444973545Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2928,11 +2928,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.9.0.tgz
     version: 11.9.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.260022968Z"
+    created: "2024-06-23T19:17:44.429786114Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2964,11 +2964,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.8.0.tgz
     version: 11.8.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.244437283Z"
+    created: "2024-06-23T19:17:44.414621383Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3000,11 +3000,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.7.0.tgz
     version: 11.7.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2024-06-23T18:54:57.22935037Z"
+    created: "2024-06-23T19:17:44.400138517Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3036,11 +3036,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.6.0.tgz
     version: 11.6.0
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2024-06-23T18:54:57.213395234Z"
+    created: "2024-06-23T19:17:44.384760699Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3072,11 +3072,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.5.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.5.1.tgz
     version: 11.5.1
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2024-06-23T18:54:57.197706235Z"
+    created: "2024-06-23T19:17:44.370409949Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3108,11 +3108,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.5.0.tgz
     version: 11.5.0
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2024-06-23T18:54:57.18331765Z"
+    created: "2024-06-23T19:17:44.355521887Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3144,11 +3144,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.4.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.4.1.tgz
     version: 11.4.1
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2024-06-23T18:54:57.169566273Z"
+    created: "2024-06-23T19:17:44.340634204Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3180,11 +3180,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.4.0.tgz
     version: 11.4.0
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2024-06-23T18:54:57.155508554Z"
+    created: "2024-06-23T19:17:44.326246909Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3216,11 +3216,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.3.tgz
     version: 11.3.3
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2024-06-23T18:54:57.141060033Z"
+    created: "2024-06-23T19:17:44.312976696Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3252,11 +3252,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.2.tgz
     version: 11.3.2
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2024-06-23T18:54:57.12756954Z"
+    created: "2024-06-23T19:17:44.298434045Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3288,11 +3288,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.1.tgz
     version: 11.3.1
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2024-06-23T18:54:57.113955217Z"
+    created: "2024-06-23T19:17:44.284319441Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3324,11 +3324,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.3.0.tgz
     version: 11.3.0
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2024-06-23T18:54:57.099799673Z"
+    created: "2024-06-23T19:17:44.271264554Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3360,11 +3360,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.2.2.tgz
     version: 11.2.2
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2024-06-23T18:54:57.085495908Z"
+    created: "2024-06-23T19:17:44.257276127Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3396,11 +3396,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.2.1.tgz
     version: 11.2.1
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2024-06-23T18:54:57.071130124Z"
+    created: "2024-06-23T19:17:44.243470869Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3432,11 +3432,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.2.0.tgz
     version: 11.2.0
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2024-06-23T18:54:57.056697237Z"
+    created: "2024-06-23T19:17:44.230474878Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3468,11 +3468,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.1.0.tgz
     version: 11.1.0
   - apiVersion: v2
     appVersion: 21.3.1
-    created: "2024-06-23T18:54:57.043312371Z"
+    created: "2024-06-23T19:17:44.215696243Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3504,11 +3504,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.0.1.tgz
     version: 11.0.1
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2024-06-23T18:54:57.029165117Z"
+    created: "2024-06-23T19:17:44.20140962Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3540,11 +3540,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-11.0.0.tgz
     version: 11.0.0
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2024-06-23T18:54:57.01480549Z"
+    created: "2024-06-23T19:17:44.188373841Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3576,11 +3576,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-10.1.0.tgz
     version: 10.1.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2024-06-23T18:54:57.001126639Z"
+    created: "2024-06-23T19:17:44.175105044Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3612,11 +3612,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2024-06-23T18:54:59.404696891Z"
+    created: "2024-06-23T19:17:46.769067128Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3648,11 +3648,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.1.2.tgz
     version: 9.1.2
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2024-06-23T18:54:59.389786095Z"
+    created: "2024-06-23T19:17:46.754604179Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3684,11 +3684,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.1.1.tgz
     version: 9.1.1
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2024-06-23T18:54:59.375580538Z"
+    created: "2024-06-23T19:17:46.740637036Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3720,11 +3720,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.1.0.tgz
     version: 9.1.0
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2024-06-23T18:54:59.361145134Z"
+    created: "2024-06-23T19:17:46.726628198Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3756,11 +3756,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.0.2.tgz
     version: 9.0.2
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2024-06-23T18:54:59.347798419Z"
+    created: "2024-06-23T19:17:46.713827724Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3792,11 +3792,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.0.1.tgz
     version: 9.0.1
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2024-06-23T18:54:59.334448336Z"
+    created: "2024-06-23T19:17:46.700710668Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3828,11 +3828,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2024-06-23T18:54:59.307975391Z"
+    created: "2024-06-23T19:17:46.687524125Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3864,11 +3864,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.3.tgz
     version: 8.1.3
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2024-06-23T18:54:59.281182793Z"
+    created: "2024-06-23T19:17:46.675510511Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3900,11 +3900,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.2.tgz
     version: 8.1.2
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2024-06-23T18:54:59.269253314Z"
+    created: "2024-06-23T19:17:46.663258221Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3936,11 +3936,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.1.tgz
     version: 8.1.1
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2024-06-23T18:54:59.25732725Z"
+    created: "2024-06-23T19:17:46.651254697Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3972,11 +3972,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.1.0.tgz
     version: 8.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.245278939Z"
+    created: "2024-06-23T19:17:46.63966364Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4008,11 +4008,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.0.1.tgz
     version: 8.0.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.233307955Z"
+    created: "2024-06-23T19:17:46.628249462Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4044,11 +4044,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.221453125Z"
+    created: "2024-06-23T19:17:46.616656042Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4080,11 +4080,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.4.1.tgz
     version: 7.4.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.208276346Z"
+    created: "2024-06-23T19:17:46.604885343Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4116,11 +4116,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.4.0.tgz
     version: 7.4.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.196310843Z"
+    created: "2024-06-23T19:17:46.593257392Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4152,11 +4152,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.3.1.tgz
     version: 7.3.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.18484885Z"
+    created: "2024-06-23T19:17:46.582186038Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4188,11 +4188,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.3.0.tgz
     version: 7.3.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.173448808Z"
+    created: "2024-06-23T19:17:46.570520284Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4224,11 +4224,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.2.1.tgz
     version: 7.2.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.162363254Z"
+    created: "2024-06-23T19:17:46.559292741Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4260,11 +4260,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.2.0.tgz
     version: 7.2.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.151063758Z"
+    created: "2024-06-23T19:17:46.548103987Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4296,11 +4296,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.1.0.tgz
     version: 7.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2024-06-23T18:54:59.13868673Z"
+    created: "2024-06-23T19:17:46.536965329Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4332,11 +4332,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2024-06-23T18:54:59.127685682Z"
+    created: "2024-06-23T19:17:46.52517864Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4368,11 +4368,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.2.1.tgz
     version: 6.2.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2024-06-23T18:54:59.116673936Z"
+    created: "2024-06-23T19:17:46.515026423Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4404,11 +4404,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.2.0.tgz
     version: 6.2.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2024-06-23T18:54:59.104455509Z"
+    created: "2024-06-23T19:17:46.50343565Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4440,11 +4440,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.1.0.tgz
     version: 6.1.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2024-06-23T18:54:59.094068075Z"
+    created: "2024-06-23T19:17:46.492076877Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4476,11 +4476,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2024-06-23T18:54:59.082848476Z"
+    created: "2024-06-23T19:17:46.480895459Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4512,11 +4512,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.6.1.tgz
     version: 5.6.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2024-06-23T18:54:59.071480324Z"
+    created: "2024-06-23T19:17:46.469849026Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4548,11 +4548,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.6.0.tgz
     version: 5.6.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:59.060304331Z"
+    created: "2024-06-23T19:17:46.457807598Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4584,11 +4584,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.5.0.tgz
     version: 5.5.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:59.048891599Z"
+    created: "2024-06-23T19:17:46.447528495Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4620,11 +4620,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.4.0.tgz
     version: 5.4.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:59.037640417Z"
+    created: "2024-06-23T19:17:46.436165232Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4656,11 +4656,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.3.0.tgz
     version: 5.3.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:59.026351438Z"
+    created: "2024-06-23T19:17:46.423878038Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4692,11 +4692,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.3.tgz
     version: 5.2.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:59.014997343Z"
+    created: "2024-06-23T19:17:46.413634491Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4728,11 +4728,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.2.tgz
     version: 5.2.2
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:59.002887496Z"
+    created: "2024-06-23T19:17:46.402550884Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4764,11 +4764,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.1.tgz
     version: 5.2.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:58.992471769Z"
+    created: "2024-06-23T19:17:46.39148394Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4800,11 +4800,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.2.0.tgz
     version: 5.2.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:58.981387788Z"
+    created: "2024-06-23T19:17:46.380041182Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4836,11 +4836,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.3.tgz
     version: 5.1.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:58.970034929Z"
+    created: "2024-06-23T19:17:46.369167148Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4872,11 +4872,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.2.tgz
     version: 5.1.2
   - apiVersion: v2
     appVersion: 20.8.1
-    created: "2024-06-23T18:54:58.958635198Z"
+    created: "2024-06-23T19:17:46.358097034Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4908,11 +4908,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.1.tgz
     version: 5.1.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2024-06-23T18:54:58.946558731Z"
+    created: "2024-06-23T19:17:46.345961708Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4944,11 +4944,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.1.0.tgz
     version: 5.1.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2024-06-23T18:54:58.93625271Z"
+    created: "2024-06-23T19:17:46.335328302Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4980,11 +4980,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.0.1.tgz
     version: 5.0.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2024-06-23T18:54:58.924633988Z"
+    created: "2024-06-23T19:17:46.324336799Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5016,11 +5016,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2024-06-23T18:54:58.913375479Z"
+    created: "2024-06-23T19:17:46.313222297Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5048,11 +5048,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.8.1.tgz
     version: 4.8.1
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2024-06-23T18:54:58.903241197Z"
+    created: "2024-06-23T19:17:46.303289516Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5080,11 +5080,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.8.0.tgz
     version: 4.8.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2024-06-23T18:54:58.893212577Z"
+    created: "2024-06-23T19:17:46.293300058Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5112,11 +5112,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.7.2.tgz
     version: 4.7.2
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2024-06-23T18:54:58.883091192Z"
+    created: "2024-06-23T19:17:46.282847994Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5144,11 +5144,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.7.1.tgz
     version: 4.7.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2024-06-23T18:54:58.872259013Z"
+    created: "2024-06-23T19:17:46.27236085Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5176,11 +5176,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.7.0.tgz
     version: 4.7.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2024-06-23T18:54:58.862513437Z"
+    created: "2024-06-23T19:17:46.262230918Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5208,11 +5208,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.6.0.tgz
     version: 4.6.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2024-06-23T18:54:58.852356295Z"
+    created: "2024-06-23T19:17:46.247705601Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5240,11 +5240,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.5.1.tgz
     version: 4.5.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2024-06-23T18:54:58.842782795Z"
+    created: "2024-06-23T19:17:46.235335211Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5272,11 +5272,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.5.0.tgz
     version: 4.5.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2024-06-23T18:54:58.83342838Z"
+    created: "2024-06-23T19:17:46.224316437Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5304,11 +5304,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.4.0.tgz
     version: 4.4.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2024-06-23T18:54:58.823433432Z"
+    created: "2024-06-23T19:17:46.209721023Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5336,11 +5336,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.3.0.tgz
     version: 4.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.813408378Z"
+    created: "2024-06-23T19:17:46.19843579Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5368,11 +5368,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.2.0.tgz
     version: 4.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.803358468Z"
+    created: "2024-06-23T19:17:46.18388176Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5400,11 +5400,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.793522308Z"
+    created: "2024-06-23T19:17:46.172682018Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5432,11 +5432,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.78383041Z"
+    created: "2024-06-23T19:17:46.158968588Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5464,11 +5464,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.773840033Z"
+    created: "2024-06-23T19:17:46.143539815Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5496,11 +5496,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-3.0.1.tgz
     version: 3.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.763284444Z"
+    created: "2024-06-23T19:17:46.131824822Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5528,11 +5528,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.720904547Z"
+    created: "2024-06-23T19:17:46.088517576Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5560,11 +5560,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.710917414Z"
+    created: "2024-06-23T19:17:46.074203846Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5592,11 +5592,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.701195412Z"
+    created: "2024-06-23T19:17:46.06367186Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5624,11 +5624,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:58.690910179Z"
+    created: "2024-06-23T19:17:46.04892941Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5656,11 +5656,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.987624998Z"
+    created: "2024-06-23T19:17:44.162021721Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5688,11 +5688,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.977902858Z"
+    created: "2024-06-23T19:17:44.15183067Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5720,11 +5720,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.96824385Z"
+    created: "2024-06-23T19:17:44.143187483Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5752,11 +5752,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.2.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.958027953Z"
+    created: "2024-06-23T19:17:44.133030532Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5784,11 +5784,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.1.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.947233817Z"
+    created: "2024-06-23T19:17:44.12432083Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5816,11 +5816,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.0.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.930019175Z"
+    created: "2024-06-23T19:17:44.107200448Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5848,11 +5848,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.3.tgz
     version: 0.12.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.921132654Z"
+    created: "2024-06-23T19:17:44.097691323Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5880,11 +5880,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.2.tgz
     version: 0.12.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.910784322Z"
+    created: "2024-06-23T19:17:44.087736849Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5912,11 +5912,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.1.tgz
     version: 0.12.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.901954127Z"
+    created: "2024-06-23T19:17:44.077983546Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5944,11 +5944,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.892291676Z"
+    created: "2024-06-23T19:17:44.06828795Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5976,11 +5976,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.11.1.tgz
     version: 0.11.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.882691268Z"
+    created: "2024-06-23T19:17:44.058365296Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6008,11 +6008,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.872910348Z"
+    created: "2024-06-23T19:17:44.048616887Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6040,122 +6040,122 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.10.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.937844843Z"
+    created: "2024-06-23T19:17:44.114022933Z"
     description: A Helm chart for Kubernetes
     digest: ccf7aabac486a68779d6564d90a875b45fefa4e4a9e8f86903355cf886b6a3aa
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.937207466Z"
+    created: "2024-06-23T19:17:44.11338953Z"
     description: A Helm chart for Kubernetes
     digest: 07b380bbb341bb276b962de0b3721c9142a97e9fd084a394fc4d9f5db75bceea
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.936562264Z"
+    created: "2024-06-23T19:17:44.112741018Z"
     description: A Helm chart for Kubernetes
     digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.935890623Z"
+    created: "2024-06-23T19:17:44.112121621Z"
     description: A Helm chart for Kubernetes
     digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.935258265Z"
+    created: "2024-06-23T19:17:44.11150576Z"
     description: A Helm chart for Kubernetes
     digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.934619075Z"
+    created: "2024-06-23T19:17:44.110886504Z"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.933977179Z"
+    created: "2024-06-23T19:17:44.110265714Z"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.933352245Z"
+    created: "2024-06-23T19:17:44.109653691Z"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.932708877Z"
+    created: "2024-06-23T19:17:44.109040094Z"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.931749815Z"
+    created: "2024-06-23T19:17:44.108398947Z"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:56.930643618Z"
+    created: "2024-06-23T19:17:44.107796201Z"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-0.2.1.tgz
     version: 0.2.1
   sentry-db:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.499598019Z"
+    created: "2024-06-23T19:17:46.861968972Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6182,11 +6182,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.490891092Z"
+    created: "2024-06-23T19:17:46.853496175Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6213,11 +6213,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.3.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.482283688Z"
+    created: "2024-06-23T19:17:46.844949503Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6244,11 +6244,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.473717482Z"
+    created: "2024-06-23T19:17:46.83694812Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6275,11 +6275,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.46513223Z"
+    created: "2024-06-23T19:17:46.828766937Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6306,11 +6306,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.456678592Z"
+    created: "2024-06-23T19:17:46.820169531Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6337,11 +6337,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.8.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.448230981Z"
+    created: "2024-06-23T19:17:46.811538747Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6368,11 +6368,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.7.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.439472454Z"
+    created: "2024-06-23T19:17:46.803117479Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6399,11 +6399,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.431034739Z"
+    created: "2024-06-23T19:17:46.794560284Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6430,11 +6430,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.422288766Z"
+    created: "2024-06-23T19:17:46.786226816Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6461,11 +6461,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.5.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2024-06-23T18:54:59.414360206Z"
+    created: "2024-06-23T19:17:46.777144978Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -6492,14 +6492,14 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.2.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-db-0.2.1.tgz
     version: 0.2.1
   sentry-kubernetes:
   - apiVersion: v2
     appVersion: latest
-    created: "2024-06-23T18:54:59.500868222Z"
+    created: "2024-06-23T19:17:46.863184793Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
-    digest: 796362eb90e5e301da2f36b66df90992672802e7d29da7919c707d9d71bf67d9
+    digest: 933a5faec41e99f485d8a1d7d5939c2de85674e029c6a13590527a861771d77b
     home: https://github.com/getsentry/sentry-kubernetes
     icon: https://sentry-brand.storage.googleapis.com/sentry-glyph-white.png
     keywords:
@@ -6511,11 +6511,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.4.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
     appVersion: latest
-    created: "2024-06-23T18:54:59.500612543Z"
+    created: "2024-06-23T19:17:46.862932792Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: eead072e8479f9e4d9df4a8a5a841776cb79b07f556183586bd0f92a010181fd
     home: https://github.com/getsentry/sentry-kubernetes
@@ -6529,11 +6529,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.4.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.4.tgz
     version: 0.3.4
   - apiVersion: v2
     appVersion: latest
-    created: "2024-06-23T18:54:59.500357624Z"
+    created: "2024-06-23T19:17:46.862682154Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 57760fc8ad6d26a6cf3d28b78bfb2bdb8d80f4cce2ff1d4e527c2b2f3d1437c9
     home: https://github.com/getsentry/sentry-kubernetes
@@ -6547,11 +6547,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.2.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: latest
-    created: "2024-06-23T18:54:59.500112484Z"
+    created: "2024-06-23T19:17:46.862451012Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 233c575ab9e3eb3f63ee347cf32d3719b22e6546952a160cf253b32f895b5b83
     home: https://github.com/getsentry/sentry-kubernetes
@@ -6565,11 +6565,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.1.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: latest
-    created: "2024-06-23T18:54:59.499850432Z"
+    created: "2024-06-23T19:17:46.862215442Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 727778ddeffa08ad086e07dc6014f13a905145cde1d257816df2fd52f1ec93db
     home: https://github.com/getsentry/sentry-kubernetes
@@ -6583,6 +6583,6 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.0.tgz
+    - https://watonomous.github.io/sentry-kubernetes-charts/sentry-kubernetes-0.3.0.tgz
     version: 0.3.0
-generated: "2024-06-23T18:54:56.842132092Z"
+generated: "2024-06-23T19:17:44.019683473Z"
