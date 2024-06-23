@@ -54,14 +54,14 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@9870d48124da805820c70ebc6ba563c715551019
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ github.token }}
           branch: gh-pages
           directory: gh-pages
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2
         env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ github.token }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./gh-pages/charts
         with:
