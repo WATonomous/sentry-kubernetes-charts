@@ -25,3 +25,14 @@ The following table lists the configurable parameters of the sentry-kubernetes c
 | `serviceAccount.name`   | Service account to be used. If not set and serviceAccount.create is `true`, a name is generated using the fullname template | ``                            |
 | `serviceAccount.create` | If true, create a new service account                                                                                       | `true`                        |
 | `priorityClassName`     | pod priorityClassName                                                                                                       | Empty                         |
+| `extraEnv`              | Additional environment variables to be added to the deployment. Can be specified multiple times.                            | `[]`                          |
+
+Each entry in the `extraEnv` array should be a key-value pair, for example:
+
+```yaml
+extraEnv:
+  - name: LOG_LEVEL
+    value: "info"
+  - name: DEBUG
+    value: "false"
+```

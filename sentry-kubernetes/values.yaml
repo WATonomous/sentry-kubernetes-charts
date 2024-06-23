@@ -33,3 +33,6 @@ rbac:
 
 podLabels: {}
 podAnnotations: {}
+
+# Additional environment variables
+extraEnv: []
